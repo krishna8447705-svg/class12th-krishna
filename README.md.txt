@@ -14,9 +14,10 @@
 - BeautifulSoup / Selenium (for automation)
 
 ## How to Run
-1. `pip install openai beautifulsoup4`
-2. API key daal do (.env file mein)
-3. `python main.py`
+1. Install Python 3.10 or newer.
+2. `py -m pip install -r requirements.txt`
+3. Set `OPENAI_API_KEY` in your terminal.
+4. `py chatbot.py`
 
 ## Live Demo (coming soon)
 - Working link: https://ai-chatbot-class12.vercel.app (agar deploy karna hai toh bata)
